@@ -3,16 +3,6 @@
 
 @import url(https://rawcdn.githack.com/Kaiburr-kath-hound/HomebreweryStyles/813be54151c76ce3ec707682eee65eb1169cc088/XanatharFonts.css);
 
-/* DELETES THE FOOTER ON THE FIRST FEW PAGES ________________________
-
-If you want the footer to reqppear, just deleate the line that include that page. */
-.page#p1:after, 
-.page#p2:after, 
-.page#p3:after, 
-.page#p4:after {
-	all	: unset;
-}
-
 
 /* YELLOW/DEFAULT THEME (Intro/Appendices) 
 
